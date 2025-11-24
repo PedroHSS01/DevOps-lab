@@ -13,6 +13,10 @@ Script para monitoramento de rcursos do sistema servidores Linux.
 
 ## 📋 Como Usar
 ```bash
+# Clonar o repositório
+git clone https://github.com/PedroHSS01/DevOps-lab/tree/main/server-stats
+cd server-stats
+
 # Dar permissão de execução
 chmod +x server-stats.sh
 
@@ -25,3 +29,6 @@ chmod +x server-stats.sh
 - Sistema Linux
 - Bash shell
 - Comandos: top, free, df, ps
+
+
+Este projeto faz parte dos projetos DevOps do [roadmap.sh](https://roadmap.sh/projects/server-stats) 
