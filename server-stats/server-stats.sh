@@ -29,4 +29,6 @@ echo""
 echo "Usuários conectados"
 echo "Usuários: $(who | wc -l)"
 echo""
-
+echo "Análise de mensagens de erro encontradas ao executar `dmesg` no WSL2 (Windows Subsystem for Linux)."
+dmesg | grep -i "error\|fail\|critical" | grep -v "Correctable Errors collector"
+echo""
