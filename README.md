@@ -6,6 +6,7 @@ Laboratório para estudos e crises do DevOps.
 
 ### 1. Server Stats Script
 Script em Bash para monitorar estatísticas de desempenho de servidores Linux.
+
 📂 **Localização:** `/devops-lab/server-stats`
 
 ---
@@ -18,5 +19,4 @@ Script em Bash para monitorar estatísticas de desempenho de servidores Linux.
 
 ## 👨‍💻 Sobre
 
-Projetos, desafios e testes que fiz  como Engenheiro DevOps Jr.
-
+Projetos, desafios e testes que fiz e faço como Engenheiro DevOps Jr.
