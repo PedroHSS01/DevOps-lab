@@ -5,12 +5,12 @@ Script para monitoramento de rcursos do sistema servidores Linux.
 ## 🎯 Funcionalidades
 
 - ✅ Uso total da CPU
-- ✅ Uso de memória (livre vs usado + percentual)
-- ✅ Utilização de disco (livre vs usado + percentual)
+- ✅ Uso de memória (livre vs usado)
+- ✅ Utilização de disco (livre vs usado)
 - ✅ Top 5 processos por uso de CPU
 - ✅ Top 5 processos por uso de memória
 - ✅ Informações do sistema (SO, kernel, uptime, usuários)
-
+- ✅ Registro de logs
 ## 📋 Como Usar
 ```bash
 # Clonar o repositório
@@ -28,8 +28,6 @@ chmod +x server-stats.sh
 
 - Sistema Linux
 - Bash shell
-- Comandos: top, free, df, ps
-
 
 Este projeto faz parte dos projetos DevOps do [roadmap.sh](https://roadmap.sh/projects/server-stats) 
 
