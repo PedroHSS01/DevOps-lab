@@ -1,2 +1,9 @@
+# Binários e instaladores
 TerraformAWS/aws/
 TerraformAWS/awscliv2.zip
+
+# Terraform
+TerraformAWS/.terraform/
+TerraformAWS/terraform.tfstate
+TerraformAWS/terraform.tfstate.backup
+TerraformAWS/*.tfvars
