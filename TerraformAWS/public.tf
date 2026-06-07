@@ -34,6 +34,6 @@ resource "aws_route_table_association" "eks_public_rtb_association_1a" {
 }
 
 resource "aws_route_table_association" "eks_public_rtb_association_1b" {
-  subnet_id      = aws_subnet.eks_subnet_public_1a.id
+  subnet_id      = aws_subnet.eks_subnet_public_1b.id
   route_table_id = aws_route_table.eks_public_route_table.id
 }
