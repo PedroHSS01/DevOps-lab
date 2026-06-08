@@ -4,6 +4,7 @@ TerraformAWS/awscliv2.zip
 
 # Terraform
 TerraformAWS/.terraform/
+TerraformAWS/**/.terraform/
 TerraformAWS/terraform.tfstate
 TerraformAWS/terraform.tfstate.backup
 TerraformAWS/*.tfvars
