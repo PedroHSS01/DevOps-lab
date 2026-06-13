@@ -8,6 +8,7 @@ Laboratório para estudos e crises do DevOps.
 Script em Bash para monitorar estatísticas de desempenho de servidores Linux.
 
 📂 **Localização:** `/server-stats`
+📄 **Documentação:** [README do projeto](./server-stats/README.md)
 
 ---
 
