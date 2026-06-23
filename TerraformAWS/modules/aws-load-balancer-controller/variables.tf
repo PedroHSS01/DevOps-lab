@@ -11,4 +11,9 @@ variable "tags" {
 variable "oidc" {
   type        = string
   description = "URL https do provaider OIDC do cluster EKS"
-} 
+}
+
+variable "cluster_name" {
+  type        = string
+  description = "Nome do cluster EKS"
+}
