@@ -37,3 +37,7 @@ No resources.
 
 No outputs.
 <!-- END_TF_DOCS -->
+
+## Arquitetura
+
+![Arquitetura do Terraform AWS](img/ChatGPT_1.png)
