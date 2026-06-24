@@ -9,3 +9,7 @@ repos:
       - id: terraform_validate
         args:
           - --args=-json
+
+      - id: terraform_docs
+        args:
+          - --args=--output-file=README.md
